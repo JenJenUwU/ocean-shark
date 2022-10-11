@@ -1,0 +1,21 @@
+{
+  "name": "ocean-shark",
+  "displayName": "Ocean Shark",
+  "description": "theme created by JenJenUwU",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.72.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Ocean Shark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Ocean Shark-color-theme.json"
+      }
+    ]
+  }
+}

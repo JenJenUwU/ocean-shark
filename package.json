@@ -9,6 +9,11 @@
   "categories": [
     "Themes"
   ],
+  "publisher" : "JenJenUwU",
+  "repository": {
+    "url": "https://github.com/JenJenUwU/shark-vscode-theme",
+    "type": "git"
+  },
   "contributes": {
     "themes": [
       {

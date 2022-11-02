@@ -2,7 +2,7 @@
   "name": "ocean-shark",
   "displayName": "Ocean Shark",
   "description": "theme created by JenJenUwU",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "engines": {
     "vscode": "^1.72.0"
   },
